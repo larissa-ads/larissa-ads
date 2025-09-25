@@ -1,13 +1,12 @@
 # Sistema de Cadastro de Usuários
 
 ## 🎯 Objetivo
-Este projeto foi desenvolvido para praticar **Python** e implementar funcionalidades básicas de um sistema de cadastro de usuários, incluindo:  
+Este projeto foi desenvolvido para praticar **Python** e consolidar lógica de programação, manipulação de dados e organização de código.  
+O sistema permite:  
 - Adicionar novos usuários  
 - Listar usuários cadastrados  
 - Atualizar informações  
-- Excluir usuários  
-
-O foco do projeto é consolidar lógica de programação, manipulação de dados e organização de código.
+- Remover usuários  
 
 ---
 
@@ -20,7 +19,7 @@ O foco do projeto é consolidar lógica de programação, manipulação de dados
 ## 📚 Aprendizados
 - Estruturas de dados (listas e dicionários)  
 - Criação de funções para modularizar o código  
-- Manipulação de arquivos para salvar os dados  
+- Manipulação de dados de usuários  
 - Versionamento de código com Git  
 
 ---
@@ -28,4 +27,4 @@ O foco do projeto é consolidar lógica de programação, manipulação de dados
 ## 🚀 Como Executar
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/larissa-ads/sistema-cadastro-usuarios.git
+git clone https://github.com/SeuUsuario/sistema-cadastro-usuarios.git
